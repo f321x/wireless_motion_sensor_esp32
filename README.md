@@ -5,5 +5,7 @@ One ESP (+PIR +HC12) acts as the motion detector and sends a signal to the other
 
 The range, depending on the set transmission power, can be >1km (outdoors). The price of the parts was around 92k sats (+soldering iron and 3D printed cases).
 
+The .ino source files can be compiled and flashed to the ESP with the Arduino IDE.
+
 Also, make sure your HC12 module works correctly; many Chinese clones need a simple fix to function correctly:
 https://ytb.trom.tf/watch?v=ZfBuEAH-Q8Y
