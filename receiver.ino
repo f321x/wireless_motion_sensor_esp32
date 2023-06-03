@@ -1,5 +1,5 @@
 #include <SoftwareSerial.h>  // standard arduino library
-#include <ToneESP32.h>  // https://github.com/weedmanu/ToneESP32
+#include <ToneESP32.h>  // https://github.com/weedmanu/ToneESP32; archived the repo on Wayback Machine (archive.org)
 
 #define NOTE_A5  880
 #define NOTE_C6  1047
