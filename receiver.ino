@@ -26,7 +26,7 @@ void beep_alarm()  // little alarm melody
 
 void check_if_a(char c)  // check if the transmitted byte is 'A'
 {
-  if (c == 65)
+  if (c == 65)  // 65 is the ascii value for A
   {
     beep_alarm();  // if it is, sound the alarm melody
   }
