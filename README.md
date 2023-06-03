@@ -9,3 +9,6 @@ The .ino source files can be compiled and flashed to the ESP with the Arduino ID
 
 Also, make sure your HC12 module works correctly; many Chinese clones need a simple fix to function correctly:
 https://ytb.trom.tf/watch?v=ZfBuEAH-Q8Y
+
+
+![IMG_20230603_231545_354](https://github.com/f321x/wireless_motion_sensor_esp32/assets/51097237/45946a81-4768-449f-95f2-d5ed001bbcdb)
